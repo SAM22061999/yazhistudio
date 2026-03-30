@@ -1,2 +1,0 @@
-# yazhistudio
-Public 
